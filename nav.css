@@ -1,0 +1,28 @@
+nav{
+    top:0px;
+    position: fixed;
+    background-color:hsla(307, 87%, 18%, 0.951);
+    }
+
+#navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.align {
+    width:95rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#list {
+    display: flex;
+}
+
+#list li {
+    margin-right: 30px;
+    color:white;
+}
+
+

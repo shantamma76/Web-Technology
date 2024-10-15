@@ -1,0 +1,125 @@
+h1{
+    color:red;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    text-transform:capitalize;
+    text-align: start;
+}
+
+h2{
+    color:blue;
+    text-align: center;
+    
+}
+
+h3{
+    color:purple;
+    text-align: end;
+}
+
+#good-day{
+    text-transform: capitalize;
+}
+
+p{
+    line-height: 2rem;
+    text-align: justify;
+}
+#increase{
+    color:brown;
+    font-size:30px;
+    font-style: italic;
+    font-family:"Franklin Gothi Medium";
+    font-weight: lighter;
+}
+
+#uppercase{
+    text-transform: uppercase;
+}
+
+#paragraph {
+
+color:red;
+border:2px dashed rgb(42, 243, 11);
+height:180px;
+width:150px; 
+overflow:scroll;
+padding:10px;
+
+}
+
+#box{
+    padding:10px;
+    border:3px dotted brown;
+    margin-left:100px;
+
+}
+
+div{
+    /* margin-top:50%;
+    margin-left:50%;
+    margin-right:50%;
+    margin-bottom:50%; 
+    margin:50% 50% 50% 50%;
+    height: 100px;
+    width:150px; */
+    
+}
+
+.creat-box{
+    height:100px;
+    width: 100px;
+    border: 5px solid blue;
+    background-color: rgb(246, 154, 16);
+
+}
+
+a:link{
+    color:chartreuse;
+}
+    
+a:hover{
+    color:red;
+}
+
+a:active {
+    color:yellow;
+    
+}
+
+a:visited {
+
+    color:rgb(234, 12, 223);
+}
+
+
+#navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+#single-line{
+    display: flex;
+}
+
+.align{
+    width:75rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+#single-line li{
+    margin-right: 10px;
+}
+
+nav{
+top:0px;
+position: fixed;
+background-color: bisque;
+}
+
+
+
+
